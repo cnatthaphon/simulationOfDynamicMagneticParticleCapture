@@ -10,4 +10,5 @@ This repository contains COMSOL model file for simulating the dynamic capture an
 - **Title**: Simulation of dynamic magnetic particle capture and accumulation around a ferromagnetic wire
 - **Authors**: Natthaphon Choomphon-anomakhun, Armin D. Ebner, Mayuree Natenapit, James A. Ritter
 - **Journal**: Journal of Magnetism and Magnetic Materials
+- **Year**: 2017
 - **DOI**: [10.1016/j.jmmm.2016.12.033](https://doi.org/10.1016/j.jmmm.2016.12.033)
